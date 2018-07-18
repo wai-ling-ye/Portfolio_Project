@@ -1,3 +1,3 @@
-# My Portfolio
+# Portfolio Draft
 
-A showcase of my work at Bloc.
+This is the first draft of a portfolio index page, styled using Material Design Lite. 
